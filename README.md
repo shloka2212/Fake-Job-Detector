@@ -24,3 +24,14 @@ Navigate to the `backend` directory:
     pip install -r requirements.txt
     uvicorn main:app --reload --host
    ```
+
+## Testing with Dataset
+1. Download the Kaggle dataset and place it in `backend/data/`
+2. Install pandas:
+   ```bash
+   pip install pandas
+   ```
+3. Run the detection script:
+   ```bash
+   python test_dataset.py
+   ```
