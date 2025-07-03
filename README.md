@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake Job Post Detector
 
 A serverless application to detect fraudulent job postings using AWS Lambda, API Gateway, and S3-hosted React frontend.
@@ -35,3 +36,6 @@ Navigate to the `backend` directory:
    ```bash
    python test_dataset.py
    ```
+=======
+# Fake-Job-Detector
+>>>>>>> deabe2afac1746c1c46b0ba34973a0457252a4f9
