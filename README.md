@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fake Job Post Detector
 
 A serverless application to detect fraudulent job postings using AWS Lambda, API Gateway, and S3-hosted React frontend.
